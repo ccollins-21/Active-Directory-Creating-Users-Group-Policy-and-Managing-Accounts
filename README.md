@@ -10,6 +10,8 @@
 This is a continuation of the "Deploying Active Directory" project. This project will demonstrate how to configure Remote Desktop for non-administrative users, automate user creation with PowerShell, and manage group policies. Additionally, I’ll cover account lockouts and log monitoring to simulate a real-life IT environment. Join me as I dive deeper into deploying Active Directory and enhancing system management skills!  <br/>
 <br />
 
+This is a continuation of the [Active Directory: Deploying Active Directory in Azure](https://github.com/ccollins-21/Active-Directory-Deploying-Active-Directory) project. <br />
+<br />
 You can find the Powershell script I run in this project [here.](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) 
 <br />
 
