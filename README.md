@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/aMMGyHQ.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
-<h1>Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure</h1>
+<h1>Creating Users, Group Policy, and Managing Accounts in Azure</h1>
 
  ### [YouTube Demonstration](https://youtu.be/Zrb_DDrI_p4)
 
